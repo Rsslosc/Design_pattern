@@ -1,0 +1,17 @@
+.bto {
+    -fx-font-size: 25;
+    /*-fx-base: lightgreen;*/
+    -fx-font-weight: lighter;
+    -fx-text-fill: rgb(50, 50, 50);
+    /*-fx-effect: innershadow(three-pass-box, #72b9da, 20, 0.2, 0, 0);*/
+    /*-fx-effect: innershadow( three-pass-box , rgba(195,255,0,0.5) , 50, 0.1 , 0 , 2 );*/
+}
+.bto :hover {
+    -fx-font-size: 25;
+    /*-fx-base: lightgreen;*/
+    -fx-font-weight: bold;
+    /*-fx-text-fill: rgb(50, 50, 50);*/
+    /*-fx-effect: innershadow(three-pass-box, #72b9da, 20, 0.2, 0, 0);*/
+    -fx-effect: innershadow( three-pass-box , rgba(195,255,0,0.5) , 50, 0.1 , 0 , 2 );
+
+}
